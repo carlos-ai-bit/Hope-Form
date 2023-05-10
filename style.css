@@ -18,28 +18,12 @@
     justify-content: center;
 }
 
-#y {
-    color: orange;
-}
-
-#z {
-    color: blueviolet;
-    font-weight: 550;
-}
 
 #img {
     /* padding: 18rem; */
     display: flex;
     width: 100%;
     height: 90vh;
-}
-
-
-#p {
-    color: orange;
-    text-align: center;
-    padding: 5rem;
-    font-size: 40px;
 }
 
 #hero {
@@ -61,13 +45,7 @@
 
 }
 
-#Team {
-    color: orange;
-    text-align: center;
-    margin-top: 9rem;
-    margin-bottom: 3rem;
-
-}
-#team{
-    
+#line ul {
+    display:block;
+    justify-content: center;
 }
