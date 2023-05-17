@@ -27,12 +27,18 @@
     height: 10%;
 }
 
+.img {
+    margin-left: 30rem;
+    margin-right: 20rem;
+
+}
+
 .text-one {
     position: absolute;
     top: 17px;
-    left: 20rem;
+    left: 40rem;
     color: #ffb611;
-    font-size: 80px;
+    font-size: 20px;
 }
 
 .programs {
@@ -67,6 +73,33 @@
     list-style: none;
     display: flex;
     font-weight: 550;
+}
+
+a {
+    color: grey;
+    text-decoration: none;
+
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    display: none;
+
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    display: none;
 }
 
 .viewers {
@@ -121,9 +154,7 @@
     margin-bottom: 3rem;
 }
 
-.icons {
-    
-}
+.icons {}
 
 .team {
     color: #ffb611;
@@ -144,6 +175,7 @@
     background-color: #fdfbf3;
 
 }
+
 
 #teams {
     display: flex;
