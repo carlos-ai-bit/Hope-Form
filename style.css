@@ -27,6 +27,21 @@
     height: 10%;
 }
 
+.text-one {
+    position: absolute;
+    top: 17px;
+    left: 20rem;
+    color: #ffb611;
+    font-size: 80px;
+}
+
+.programs {
+    color: #ffb611;
+    text-align: center;
+    padding: 5rem;
+    font-size: 40px;
+}
+
 #IMG2 {
     border-radius: 50%;
     width: 10%;
@@ -52,6 +67,19 @@
     list-style: none;
     display: flex;
     font-weight: 550;
+}
+
+.viewers {
+    width: 290px;
+    height: 290px
+}
+
+
+
+.container {
+    position: Relative;
+    font-family: Block;
+
 }
 
 #img {
@@ -91,6 +119,10 @@
     margin-top: 6rem;
     text-align: center;
     margin-bottom: 3rem;
+}
+
+.icons {
+    
 }
 
 .team {
